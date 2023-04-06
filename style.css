@@ -1,0 +1,40 @@
+body{
+	background-color: rgb(230,230,230);
+	font-family: courier;
+	color: black;
+}
+h1{
+	color:purple;
+	font-family: halvetica;
+	font-weight: 100;
+}
+a{
+	text-decoration: none;
+	color:red;
+}
+a:hover{
+	color:yellow;
+}
+.img-circle{
+	border-radius: 5px;
+}
+.shadowed{
+	box-shadow: 5px 5px 3px black;
+}
+img{
+	border-image-width: 20px;
+}
+div{
+	background: white;
+	padding: 30px;
+	margin: 50px;
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,.1);
+
+}
+p{
+	color: black;
+	font-family: courier;
+	font-size: 18px;
+	font-weight: lighter;
+}
